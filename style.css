@@ -1,0 +1,56 @@
+.background image
+{
+    background-image:url(OP.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(16, 32, 18);
+    margin: auto;
+    padding: 20px;
+    border: solid black;
+}
+.tab1
+{
+    background-color: rgb(234, 236, 122);
+}
+.tab2
+{
+    background-color: beige;
+}
+.tab3
+{
+    background-color: rgb(243, 219, 190);
+}
+
+h1{
+    background-color: rgb(97, 118, 235);
+}
+button 
+{background-color: rgb(238, 190, 190);
+    border: 2px black solid;
+    color: rgb(19, 8, 70);
+    padding: 0cqw;
+    text-decoration: none;
+    display: inline-block;
+    font-size: larger;
+}
+.container
+{
+  width: 50%;
+  margin: auto;  
+}
+.container1
+{
+    
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    margin: auto;
+}
+.Hamza
+{
+    background-color: rgb(231, 179, 141);
+    border: 20PX;
+    font-style: italic;
+    font-size: large;
+}
+
